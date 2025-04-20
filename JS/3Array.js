@@ -1,0 +1,13 @@
+let info= ["Riad",23, 89.9];
+console.log(info);
+
+//HOW TO ACCESS AND PRINT INDEXES
+console.log(info[0]);
+
+/*
+ARRAY METHODS:
+
+PUSH: ADDS TO END        POP: DELETES FROM END AND RETURNS IT 
+UNSHIFT:ADD TO STRAT     SHIFT: DELETES FROM START AND RETURNS IT
+
+*/
